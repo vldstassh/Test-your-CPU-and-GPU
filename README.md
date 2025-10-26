@@ -1,5 +1,5 @@
 # Test-your-CPU-and-GPU
-Most of us enjoy testing our device hardware capabilities.
+Most of us enjoy testing our hardware capabilities.
 
 This software intends to measure the computational performance of your CPU or GPU using mathematical workloads. It has two separate benchmarks: one for the CPU and one for the GPU. Both tests use computation rather than graphics rendering or operations with files, therefore giving you insights about your raw processing speed.
 
