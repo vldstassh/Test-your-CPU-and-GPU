@@ -7,6 +7,6 @@ The CPU benchmark uses a prime number sieve algorithm. It continuously calculate
 
 The GPU benchmark uses an OpenCL kernel to perform a large number of floating-point multiply-add operations in parallel. It stresses the GPU’s compute units, tests memory bandwidth, and outputs the total number of floating-point operations executed per second (GFLOPS). The result shows the GPU’s ability to handle numerical tasks like simulations and machine learning.
 
-Each test executes for any duration, if modified, and gives you information about these results. They can be used to compare different systems, or even test your cooling efficiency.
+Each test executes for any duration if modified, and gives you information about these results. They can be used to compare different systems, or even test your cooling efficiency.
 
 Changes are expected in the nearby future, including instructions. You are welcome to make your own modifications to this software.
